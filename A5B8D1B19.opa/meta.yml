@@ -1,0 +1,25 @@
+id: A5B8D1B19
+title: To Fulfil All Wishes
+type: translation
+pechas:
+- IBDABDED4
+- I03560151
+- I3A26225C
+- I5565666A
+source_metadata:
+  languages:
+  - en
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:11:50.540885
+  last_modified_at: 2023-01-04 12:11:50.540898
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBDABDED4/CE2A: 39BA
+  I03560151/25CA: 39BA
+  I3A26225C/E2A0: 39BA
+  I5565666A/7057: 39BA

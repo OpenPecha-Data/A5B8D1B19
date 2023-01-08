@@ -1,0 +1,57 @@
+segment_sources:
+  IBDABDED4:
+    type: origin_type
+    relation: translation
+    base: CE2A
+    lang: en
+  I03560151:
+    type: origin_type
+    relation: translation
+    base: 25CA
+    lang: es
+  I3A26225C:
+    type: origin_type
+    relation: translation
+    base: E2A0
+    lang: fr
+  I5565666A:
+    type: origin_type
+    relation: translation
+    base: '7057'
+    lang: bo
+segment_pairs:
+  0f23cd044a5d4ac5a6c9ea7f30166875:
+    IBDABDED4: c1475274b110406a8190ad5e01b2ae44
+    I03560151: cbb7b18e946a4b58a4487bbeeec797df
+    I3A26225C: 8cab9a2826c249c7b231b7617f4b3206
+    I5565666A: 9f8238fc43b84376910027fad507f8d2
+  da23a72670634cc68902414b6115485a:
+    IBDABDED4: f5ec81c4db39429293032008de6f1f0f
+    I03560151: 38a3805f29c14bc28fc76fd2c63ddfff
+    I3A26225C: 89652330b79042c38bcca286d25bf45e
+    I5565666A: 10aa4764e1f5418c84b6a675f1d6ea92
+  14421da5e8db4acd983227e4ecc7393f:
+    IBDABDED4: 88326890900f4217ba8961a1d0331ae7
+    I03560151: eeb0e85ca22e4c4a85f534a1f23f108e
+    I3A26225C: 61c4b0b14de14094812d824218138b45
+    I5565666A: 236490ecd7ae41a7b62c1464ab6ed38a
+  67a366af808c4c79a45473a991ba0475:
+    IBDABDED4: 8ccb36dcd51e42d5bd1589ed9268069d
+    I03560151: 7f6f13dd1d644d60a892413b9e914b7e
+    I3A26225C: b80cd527b8bb482399c29544b73c838e
+    I5565666A: c7c207bcdee64f0ca7881e5084ecb55e
+  94773d28f46d4854b1fffccd6c80b6f8:
+    IBDABDED4: 0aee48d6e2fc44dcbcba93f8cd932b56
+    I03560151: efa190ff6adf4987918e18a2b45751e6
+    I3A26225C: 148d9ba743f141ce962ee0b75bccb07c
+    I5565666A: d56ef437dc854a1baa4734441b41acde
+  66a48467057a4b33860203ccae284432:
+    IBDABDED4: e25e1f1ccab3410099395f6cdaa1c9dd
+    I03560151: ef8fd89753304058b6aacfe0dcd05c36
+    I3A26225C: a4f166e12dee4b77aa7fd6cb4b329245
+    I5565666A: fd1023e4ef564242aa704c910f8dbc35
+  3d1613e6841540bfa8277413ac43ac09:
+    IBDABDED4: a965728cec0544afbce957f4ed6c3a0f
+    I03560151: ed5dcbb177954e38aa4f2e0b485b03af
+    I3A26225C: bd0afa747085405da648a4463a638c4f
+    I5565666A: 9a2c70fca1a24f659ec405f62e9d0804
